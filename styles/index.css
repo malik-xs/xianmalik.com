@@ -13,3 +13,8 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+
+body {
+	/* font-family: 'Fira Code', sans-serif !important; */
+	font-family: 'Roboto Mono', sans-serif !important;
+}

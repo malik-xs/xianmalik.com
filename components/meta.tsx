@@ -32,6 +32,8 @@ const Meta = () => {
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" />
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap" />
       <meta
         name="description"
         content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
